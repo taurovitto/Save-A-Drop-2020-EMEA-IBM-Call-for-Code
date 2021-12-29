@@ -1,4 +1,4 @@
-# Save-A-Drop-2020-EMEA-IBM-Call-for-Code
+# Save A Drop - 2020 EMEA IBM Call for Code
 
 IBM Call for Code EMEA 2020: Students vs Climate Change Winner in the Water Sustainability track. Issued by IBM partnered with The Clinton Foundation in November 2020. My Save A Drop team developed an IOT interface to help reduce water consumption and promote responsible water use. For more details, check out our video. 
 
