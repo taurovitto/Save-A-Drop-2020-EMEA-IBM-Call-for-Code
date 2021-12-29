@@ -10,6 +10,8 @@ The included files are:
 
 Project Description: The final goal of our project is to develop an IOT interface that allows water suppliers to measure the amount of water each household is consuming through a smart water meter and to set recommendations on monthly water consumption. The smart water meter will give instantaneous feedback to the suppliers, and this data will be directly communicated to the households through an app, allowing people to know their consumption as it is happening. A Weather API will help the model adjust the recommended amount of consumption, based on the weather and drought expectations for the next time period. Water suppliers should further use this interface to incentivize reduced water consumption by enforcing financial penalties on people that go over the limit and by providing other incentives to people that stay under.
 
+Save A Drop team: Vittorio Costa (New York University - Bocconi University), Enrico Giannelli (Bocconi University), and Aldin Traljic (Columbia University - Bocconi University).
+
 Video Submission: https://youtu.be/7FZYWSU2dZo
 
 Award Ceremony: https://www.youtube.com/watch?v=GmEKql_ZfGg
